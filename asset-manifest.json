@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cp-messenger-clone/static/css/main.16863eb3.chunk.css",
+    "main.js": "/cp-messenger-clone/static/js/main.146ac7bc.chunk.js",
+    "main.js.map": "/cp-messenger-clone/static/js/main.146ac7bc.chunk.js.map",
+    "runtime-main.js": "/cp-messenger-clone/static/js/runtime-main.caff6a4b.js",
+    "runtime-main.js.map": "/cp-messenger-clone/static/js/runtime-main.caff6a4b.js.map",
+    "static/js/2.d56b0d01.chunk.js": "/cp-messenger-clone/static/js/2.d56b0d01.chunk.js",
+    "static/js/2.d56b0d01.chunk.js.map": "/cp-messenger-clone/static/js/2.d56b0d01.chunk.js.map",
+    "index.html": "/cp-messenger-clone/index.html",
+    "precache-manifest.c8683d7ff44e5ce8d2d74080d295ef82.js": "/cp-messenger-clone/precache-manifest.c8683d7ff44e5ce8d2d74080d295ef82.js",
+    "service-worker.js": "/cp-messenger-clone/service-worker.js",
+    "static/css/main.16863eb3.chunk.css.map": "/cp-messenger-clone/static/css/main.16863eb3.chunk.css.map",
+    "static/js/2.d56b0d01.chunk.js.LICENSE.txt": "/cp-messenger-clone/static/js/2.d56b0d01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caff6a4b.js",
+    "static/js/2.d56b0d01.chunk.js",
+    "static/css/main.16863eb3.chunk.css",
+    "static/js/main.146ac7bc.chunk.js"
+  ]
+}
